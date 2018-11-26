@@ -1,0 +1,12 @@
+G_Fulkerson,1
+s,a,b,c,d,t
+s,a,16,arista1
+s,c,13,arista2
+a,c,10,arista3
+c,a,4,arista4
+a,b,12,arista5
+b,c,9,arista6
+c,d,14,arista7
+d,b,7,arista8
+b,t,20,arista9
+d,t,4,arista10
