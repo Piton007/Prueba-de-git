@@ -1,5 +1,5 @@
 G_Fulkerson,3
-s,a,b,c,d,t
+s,a,b,c,d,T
 s,a,16,arista1
 s,c,13,arista2
 a,c,10,arista3
