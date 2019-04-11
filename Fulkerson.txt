@@ -7,6 +7,6 @@ c,a,4,arista4
 a,t,12,arista5
 b,c,9,arista6
 c,d,14,arista7
-d,b,7,arista8
-b,t,20,arista9
-d,t,4,arista10
+d,b,7,arista11
+b,t,20,arista19
+d,t,4,arista11
